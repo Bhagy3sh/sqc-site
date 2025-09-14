@@ -434,6 +434,7 @@ function CodeOfConductFooter() {
   );
 }
 
+// Page Layout
 export default function FallFestPage() {
   return (
     <main
